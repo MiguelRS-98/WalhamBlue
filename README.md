@@ -4,16 +4,16 @@
 ### Miguel Ángel Rodríguez Siachoque:black_nib:
 
 ## :one::soccer:Resumen
-  El nombre ___Walham Bridge___ proviene de una combinación entre el estadio ___Stamford Bridge___ afiliado al ___Chelsea Football Club___ y ___Walham Green___ el distrito donde se encuentra dicho estadio.
+  El nombre ___Walham Blue___ proviene de una combinación entre el estadio ___Stamford Bridge___ afiliado al ___Chelsea Football Club___ y ___Walham Green___ el distrito donde se encuentra dicho estadio.
   
   Este es un proyecto enfocado para la ayuda de aficionados e hinchas del futbol, especialmente diseñado para aquellos hinchas de ___Chelsea Football Club___. Puesto que se encontraran con herramientas para el conocimiento de su equipo, por ejemplo conocer su historia, jugadores, estadio, palmares, etc..
   
 ## :two::soccer:Descripción
-  La herramienta en la que se enfoca este proyecto es ___Walham Bridge___, cuya función se encargará de conocer personas para las siguientes funciones:
+  La herramienta en la que se enfoca este proyecto es ___Walham Blue___, cuya función se encargará de conocer personas para las siguientes funciones:
   >:large_blue_circle: Búsqueda de personas para asistir a un partido en compañía.
 ### :arrow_forward:Proceso
-  Teniendo en cuenta las funcionalidades se explicará el proceso de ___Walham Bridge___:
-  >1. Ingresar a ___Walham Bridge___.
+  Teniendo en cuenta las funcionalidades se explicará el proceso de ___Walham Blue___:
+  >1. Ingresar a ___Walham Blue___.
   >2. Registrarse y aceptar términos y condiciones.
   >3. Se podrá visualizar la opcion de ___Búsqueda Blue___ con el cual se hará un match para encontrar compañeros que deseen asistir al partido en compañía.
   >4. Cuando ___Búsqueda Blue___ encuentre una persona, lo enlazará a un chat para poder contactarse.
@@ -25,7 +25,7 @@
 ### :arrow_forward:Opciones
   ![Prototipo Opciones](ImagenesPrototipo/DisenoPrototipo.png)
 
-  Las opciones que se presentarán una vez hagan parte de la comunidad de ___Walham Bridge___ son:
+  Las opciones que se presentarán una vez hagan parte de la comunidad de ___Walham Blue___ son:
   >- **Búsqueda Blue:** Búsqueda de personas.
   >- **Chats:** Chats almacenados de las personas con las que se generó  alguna búsqueda. 
   >- **Amigos Blues:** Lista de amigos.
