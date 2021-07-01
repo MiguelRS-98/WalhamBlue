@@ -1,0 +1,34 @@
+/*Main menu CSS*/
+body {font-family:Helvetica; background-color:rgba(13,16,23,1); margin:0;}
+
+
+/*Titles CSS*/
+.blockTitle {background-color:rgba(1,98,255,1); border-radius:20px; text-align:right; margin-top:8px; margin-left:40px; margin-right:8px; height:40px;}
+  .title {color:rgba(255,255,255,1); background-color:rgba(1,98,255,1); font-size:30px; border-top-right-radius:20px; border-bottom-right-radius:20px; text-align:center; width:415px; float:center; margin-top:8px; margin-left:60px;}
+  /*Sponsor's CSS*/
+  .frontSponsor {margin-top:5px; cursor:pointer; width:88px; height:30px;}
+
+
+/*Menu CSS*/
+.blockMenu {width:100%; height:100%;}
+  .mainBlockOption {float:left; cursor:pointer; margin-top:-48px; margin-left:3px;}
+    .imgMainOption{height:120px; width:120px;}
+  /*Option CSS*/
+  .secondBlockOption {color:rgba(0,20,137,1); background-color:rgba(255,255,255,0); border-radius:20px; margin-top:8px; margin-right:8px; display:flex; height:30px;}
+    .secondOption {color:rgba(255,255, 255,1); text-decoration:none; font-size:14px; font-weight:bold; text-align:center; height:16px; border:none; margin:auto; float:left; cursor:pointer;}
+/*Transitions Options*/
+.secondBlockOption:hover {color:rgba(255,255,255,1); background-color:rgba(255,255,255,1); transition-duration:0.5s;}
+.secondOption:hover {text-decoration:underline rgba(1,98,255,1);}
+.secondBlockOption:hover .secondOption {color:rgba(0,0,0,1); transition-duration:0.5s;}
+
+
+/*Subtitles CSS*/
+  .subTitle {color:rgba(255,255,255,1); background-color:rgba(43,46,53,1); font-size:25px; border-top-right-radius:20px; border-bottom-right-radius:20px; text-align:center; width:450px; float:left;}
+  .subTitle2 {color:rgba(255,255,255,1); background-color:rgba(1,98,255,1); font-size:23px; text-align:center; margin-bottom:5px;}
+
+/*Sponsors CSS*/
+.blockSponsor {background-color:rgba(255,255,255,1); width:100%; line-height: 100px;}
+  .mainSponor {text-align:center;}
+    .endMainSponsor {cursor:pointer;}
+  .secondSponsor {text-align:center;}
+    .endSecondSponsor {cursor:pointer;}

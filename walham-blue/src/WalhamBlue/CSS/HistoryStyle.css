@@ -1,0 +1,5 @@
+/*Options History CSS*/
+.blockHistoty {text-align:center;}
+  .optionHistory {display:inline-block; background-color:rgba(33,36,43,1); margin:3px;}
+    .imgOptionHistory {height:300px; width:400px; cursor:pointer;}
+    .descriptionOption {color:rgba(255,255,255,1);}

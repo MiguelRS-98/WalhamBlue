@@ -1,0 +1,41 @@
+/*Subtitle's CSS*/
+.squad0 {background-image:linear-gradient(-90deg,rgba(64,4,0,1),rgba(255,11,36,1)); color:rgba(255,255,255,1); border-radius:20px;}
+.squad1 {background-image:linear-gradient(-90deg,rgba(216,48,19,1),rgba(252,119,0,1)); color:rgba(255,255,255,1); border-radius:20px;}
+.squad2 {background-image:linear-gradient(-90deg,rgba(233,193,30,1),rgba(255,169,52,1)); color:rgba(255,255,255,1); border-radius:20px;}
+.squad3 {background-image:linear-gradient(-90deg,rgba(0,63,41,1),rgba(12,180,8,1)); color:rgba(255,255,255,1); border-radius:20px;}
+.squad4 {background-image:linear-gradient(-90deg,rgba(0,27,63,1),rgba(0,131,252,1)); color:rgba(255,255,255,1); border-radius:20px;}
+
+
+/*Type player CSS*/
+.blockSquad {overflow: hidden; text-align:center;}
+  .blockDT {overflow: hidden;}
+  .blockGK {overflow: hidden;}
+  .blockDF {overflow: hidden;}
+  .blockMF {overflow: hidden;}
+  .blockFW {overflow: hidden;}
+
+
+/*Player CSS*/
+.blockPlayer {position:relative; float:left; width: 300px; height:410px; margin-left:50px; margin-right:50px;}
+  /*Player Photo*/
+  .firstImage {display:block; width:300px; height:410px;}
+  /*Player Back Photo*/
+  .secondImage {position:absolute; bottom:0; left:0; right:0; overflow:hidden; width:100%; height:0%; transition:.5s ease;}
+      .secondImageDT {background-image:linear-gradient(rgba(64,4,0,1),rgba(255,11,36,1));}
+      .secondImageGK {background-image:linear-gradient(rgba(216,48,19,1),rgba(252,119,0,1));}
+      .secondImageDF {background-image:linear-gradient(rgba(233,193,30,1),rgba(255,169,52,1));}
+      .secondImageMF {background-image:linear-gradient(rgba(0,63,41,1),rgba(12,180,8,1));}
+      .secondImageFW {background-image:linear-gradient(rgba(0,27,63,1),rgba(0,131,252,1));}
+    /*Player Stats*/
+    .tableInfo {color:rgba(255,255,255,1); text-align:center; white-space:nowrap; border-collapse:separate; border-spacing:5px 5px; position:absolute; overflow:hidden; top:50%; left:50%; -transform:translate(-50%,-50%); transform:translate(-50%,-50%); transform: translate(-50%,-50%);}
+  /*Player Country*/
+  .thirdImage {position:absolute; bottom:28%; left:0; right:0; overflow:hidden; width:0%; height:12%; transition:.5s ease;}
+      .thirdImageDT {background-color:rgba(255,11,36,0.7);}
+      .thirdImageGK {background-color:rgba(252,119,0,0.7);}
+      .thirdImageDF {background-color:rgba(255,178,52,0.7);}
+      .thirdImageMF {background-color:rgba(12,180,8,0.7);}
+      .thirdImageFW {background-color:rgba(0,131,252,0.7);}
+    .tableInfo2 {position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); transform:translate(-50%,-50%); transform:translate(-50%,-50%); white-space:nowrap;}
+/*Transitions Player*/
+.blockPlayer:hover .secondImage {height:28%; left:0;}
+.blockPlayer:hover .thirdImage {width: 100%;}

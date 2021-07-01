@@ -1,0 +1,24 @@
+/*Menu CSS*/
+.matchBlockOption {background-color:rgba(43,46,53,0); margin-top:20px; margin-bottom:20px; display:flex; height:40px;}
+    .matchOption {color:rgba(255,255,255,1); background-color:rgba(21,98,255,1); font-size:15px; border-radius:20px; text-decoration:none; font-weight:bold; text-align:center; width:220px; height:22px; border:none; margin:auto; float:left; cursor:pointer;}
+    .words {color:rgba(255,255,255,1);}
+
+.competitonTitle {border-top-right-radius:20px; border-bottom-right-radius:20px; text-align:center; width:368px; height:40px; float:left; margin-bottom:20px;}
+    .plTitle {background-image:linear-gradient(-90deg,rgba(0,254,162,1),rgba(49,0,52,1));}
+    .wcTitle {background-image:linear-gradient(-90deg,rgba(164,5,44,1),rgba(0,128,109,1));}
+    .scTitle {background-image:linear-gradient(-90deg,rgba(2,144,86,1),rgba(0,42,92,1));}
+    .clTitle {background-image:linear-gradient(-90deg,rgba(109,2,176,1),rgba(23,156,249,1));}
+    .fcTitle {background-image:linear-gradient(-90deg,rgba(209,10,17,1),rgba(11,60,116,1));}
+
+.tableCompetition {font-family:'Poppins'; width:100%; color:rgba(255,255,255,1); border-collapse:collapse; margin-bottom:10px;}
+    .tableHeadTitle {font-size:14px; color:rgba(255,2551,255,1); font-weight:bold; text-align:center;}
+        .plMatch {background-image:linear-gradient(-90deg,rgba(0,254,162,1),rgba(49,0,52,1));}
+        .wcMatch {background-image:linear-gradient(-90deg,rgba(0,128,109,1),rgba(164,5,44,1));}
+        .scMatch {background-image:linear-gradient(-90deg,rgba(0,42,92,1),rgba(2,144,86,1));}
+        .clMatch {background-image:linear-gradient(-90deg,rgba(23,156,249,1),rgba(109,2,176,1));}
+        .fcMatch {background-image:linear-gradient(-90deg,rgba(11,60,116,1),rgba(209,10,17,1));}
+    .mounth {font-size:25px; font-weight:bold;}
+    .tableBodyContainer{font-size:90%; background-image:linear-gradient(-90deg,rgba(148,63,244,0),rgba(251,41,132,0));}
+        .tableSpecial {text-align:center;}
+        tr.tableSpecial td {text-align:center;}
+    

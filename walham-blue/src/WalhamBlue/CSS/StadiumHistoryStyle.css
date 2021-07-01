@@ -1,0 +1,15 @@
+/*Menu CSS*/
+.stadiumBlockOption {background-color: rgba(43,46,53,0); margin-top:20px; margin-bottom:20px; display:flex; height:40px;}
+    .stadiumOption {color:rgba(255,255,255,1); background-color:rgba(21,98,255,1); font-size:15px; border-radius:20px; text-decoration:none; font-weight:bold; text-align:center; width:220px; height:22px; border:none; margin:auto; float:left; cursor:pointer;}
+
+
+/*Google Map CSS*/
+.googleMap{border:0;}
+
+
+/*Image History Stadium Css*/
+.imgHistoryStadium {width:600px; height:300px;}
+
+
+/*Information Stadium CSS*/
+.infoStadium {color:rgba(255,255,255,1); font-size:20px; font-weight:normal; margin-left:20%; margin-right:20%; margin-top:40px; margin-bottom:60px;}
