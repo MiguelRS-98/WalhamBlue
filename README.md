@@ -25,18 +25,18 @@
   
   >:warning:El chat se realiza con el fin de conocer la persona con la que asistirá  y verificar datos, así poder generar un buen entorno en ___Walham Blue___.
 
+### :arrow_forward:Opciones
+  ![Prototipo Opciones](ImagenesPrototipo/DisenoPrototipo.png)
+
 ### :arrow_forward:Chat
   Chat final y funcional.
   ![Chat](ImagenesFinales/Chat.PNG)
 
-### :arrow_forward:Opciones
-  ![Prototipo Opciones](ImagenesPrototipo/DisenoPrototipo.png)
-
   Las opciones que se presentarán una vez hagan parte de la comunidad de ___Walham Blue___ son:
-  >- **Búsqueda Blue:** Búsqueda de personas.
-  >- **Chats:** Chats almacenados de las personas con las que se generó  alguna búsqueda. 
-  >- **Amigos Blues:** Lista de amigos.
-  >- **Mi perfil:** Opción para visualizar o editar ciertos datos del perfil.
+  >- **Name:** Ingresar nombre de usuario.
+  >- **Start Blue Community:** Registrar nombre de usuario. 
+  >- **Type a message...:** Escribir el mensaje a enviar.
+  >- **Send:** Enviar mensaje del usuario.
 
 ## :three::soccer:Historias De Usuario
 ### :arrow_forward:Historias de Usuario 1 - Administrador
