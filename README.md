@@ -74,3 +74,6 @@
 > **Como** Usuario, **Quiero poder** eliminar un compañero asistente en Walham Blue, **Para** mejorar y administrar mejor la lista de usuarios preferidos para asistir.
 > ##### Criterios de Aceptación
 >   - El usuario debe registrar el nombre del usuario, para poder eliminarlo.
+
+## Walham Blue (Chat) - JavaDoc:
+[JavaDocs - Datagram - HTTP Server](JavaDocs/index.html)
