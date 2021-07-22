@@ -31,8 +31,8 @@ function App() {
             <Link className="secondOption" to="/matches/premier-league">MATCHES</Link>
             <Link className="secondOption" to="/squad">SQUAD</Link>
             <Link className="secondOption" to="/history">HISTORY</Link>
-            <Link className="secondOption" to="/tickets">TICKETS</Link>
-            <Link className="secondOption" to="/chat">CHAT</Link>
+            <a className="secondOption" href='https://mytickets.tickets.com/buy/MyTicketsServlet?orgid=22753&agency=CHELSEA_MYTIXX'>TICKETS</a>
+            <a className="secondOption" href='https://young-sands-74652.herokuapp.com'>CHAT</a>
           </div>
         </div>
 
