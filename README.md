@@ -76,4 +76,4 @@
 >   - El usuario debe registrar el nombre del usuario, para poder eliminarlo.
 
 ## Walham Blue (Chat) - JavaDoc:
-[JavaDocs - Datagram - HTTP Server](JavaDocs/index.html)
+[JavaDocs - Chat Walham Blue](JavaDocs/index.html)
